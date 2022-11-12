@@ -2,7 +2,7 @@
 
 - 🔭 Procuro oportunidade como desenvolvedor
 - 🌱 Atualmente estou aprofundando meus estudos em Java e tudo que envolva o ecossistema Spring
-- ⚡ Técnico em eletrônica
+- ⚡ Técnico em eletrônica e estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/ThiagoWaldrich">
