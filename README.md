@@ -1,6 +1,7 @@
 ### Olá, me chamo Thiago Waldrich 👋
 
 - 🌱 Atualmente estou aprofundando meus estudos em Java e tudo que envolva o ecossistema Spring
+- 🔱 Frontend com NextJS
 - ⚡ Técnico em eletrônica e estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
