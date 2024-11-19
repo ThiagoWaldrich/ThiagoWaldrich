@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprofundando meus estudos em Java e tudo que envolva o ecossistema Spring
 - 🔱 Frontend com NextJS
-- ⚡ Técnico em eletrônica e estudante de Análise e Desenvolvimento de Sistemas
+- ⚡ Técnico em eletrônica e Analista e Desenvolvedor de Sistemas
 <img align="center" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNnMnp2OWl5MDRlY21vZW5lMHV0a2R4Mmt1Z3BwZDY3YmllZmZvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
 
 <div align="center">
